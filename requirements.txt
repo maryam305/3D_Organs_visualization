@@ -1,0 +1,14 @@
+PyQt5
+vtk
+pyvista
+pyvistaqt
+pydicom
+opencv-python
+matplotlib
+nibabel
+pyttsx3
+SimpleITK
+scipy
+pandas
+numpy
+Pillow
