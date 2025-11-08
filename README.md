@@ -401,6 +401,7 @@ This project is provided as-is for educational and research purposes. Not intend
 - [LinkedIn](https://www.linkedin.com/in/aya-sayed-bb6a80397?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 **Project Contributor**: Mahmoud Mazen
+- Email: mmmahmoudmazen208@gmail.com
 - [GitHub](https://github.com/MahmoudMazen0)
 
 ---
