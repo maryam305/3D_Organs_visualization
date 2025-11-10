@@ -18,7 +18,8 @@
 
 
 
-https://github.com/user-attachments/assets/626619a7-1ffd-4c49-91cc-719138db4337
+<img width="1916" height="986" alt="Screenshot 2025-11-10 111920" src="https://github.com/user-attachments/assets/fe017e2a-e897-4def-8325-994f197158ff" />
+
 
 
 
@@ -61,12 +62,20 @@ All systems are launched via a Tkinter-based main interface or standalone entry 
 - ✂️ **Integrated advanced clipping with anatomical planes**
 - 🔍 **Integrated curved MPR for volume exploration**
 
+
+https://github.com/user-attachments/assets/1ce0cc42-e0b6-4a82-bd3a-5f7adc6cdc45
+
+
 #### 🧠 Nervous System
 - 🧬 Brain and spinal cord visualization  
 - 📊 EEG-driven surface coloring  
 - ⚡ Neural signal pathway animation with glow effects
 - ✂️ **Integrated multi-plane clipping tools**  
 - 🔍 **Integrated curved MPR (Multiplanar Reconstruction)**  
+
+
+https://github.com/user-attachments/assets/43b43fc7-c90c-4b51-b1d6-29a6aec2bc46
+
 
 #### 🦴 Musculoskeletal System
 - 💪 Bone and muscle rendering  
@@ -89,6 +98,10 @@ https://github.com/user-attachments/assets/dbbb5aca-8ad5-471b-8f91-fb698f0c2fc1
 - 🦴 Jaw movement control (open/close)
 - ✂️ **Integrated advanced clipping**
 - 🔍 **Integrated curved MPR**
+
+
+https://github.com/user-attachments/assets/abb83cd5-13b1-433c-b023-cc106cb5048c
+
 
 ---
 
