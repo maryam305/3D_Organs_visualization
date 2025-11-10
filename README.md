@@ -14,9 +14,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/46a0a135-abf9-42c7-a209-45aa5f1d6983" alt="Main Launcher" width="800"/>
-</p>
+https://github.com/user-attachments/assets/video
 
 ---
 
@@ -50,23 +48,19 @@ All systems are launched via a Tkinter-based main interface or standalone entry 
 ### 🎯 Core Systems
 
 #### 🫀 Cardiovascular System
-- 💓 Real-time ECG simulation with conduction modeling  
-- 🔊 Heart sounds and audio cues  
+- 💗 Real-time ECG simulation with conduction modeling  
+- 📊 Heart sounds and audio cues  
 - 🗣️ Text-to-speech annotations  
 - 🩸 Interactive vessel visualization  
 - ✂️ **Integrated advanced clipping with anatomical planes**
-- 📐 **Integrated curved MPR for volume exploration**
-
-https://github.com/user-attachments/assets/cf411a22-6278-40b3-8a52-e793f859b8e8
+- 🔍 **Integrated curved MPR for volume exploration**
 
 #### 🧠 Nervous System
 - 🧬 Brain and spinal cord visualization  
 - 📊 EEG-driven surface coloring  
 - ⚡ Neural signal pathway animation with glow effects
 - ✂️ **Integrated multi-plane clipping tools**  
-- 📐 **Integrated curved MPR (Multiplanar Reconstruction)**  
-
-https://github.com/user-attachments/assets/dea9e450-0fd2-4720-aac7-ae6f6a9e7322
+- 🔍 **Integrated curved MPR (Multiplanar Reconstruction)**  
 
 #### 🦴 Musculoskeletal System
 - 💪 Bone and muscle rendering  
@@ -75,9 +69,7 @@ https://github.com/user-attachments/assets/dea9e450-0fd2-4720-aac7-ae6f6a9e7322
 - 🎨 Advanced quality controls  
 - ✨ Edge enhancement options  
 - ✂️ **Integrated advanced clipping**
-- 📐 **Integrated curved MPR**
-
-https://github.com/user-attachments/assets/14e4e32c-3b81-4cb0-9cd5-bddac1712f44
+- 🔍 **Integrated curved MPR**
 
 #### 🦷 Dental System
 - 😁 Teeth and jaw segmentation  
@@ -86,9 +78,7 @@ https://github.com/user-attachments/assets/14e4e32c-3b81-4cb0-9cd5-bddac1712f44
 - 💫 Neural signal animation  
 - 🦴 Jaw movement control (open/close)
 - ✂️ **Integrated advanced clipping**
-- 📐 **Integrated curved MPR**
-
-https://github.com/user-attachments/assets/349d61ec-7f28-4be6-94aa-31921308e7dc
+- 🔍 **Integrated curved MPR**
 
 ---
 
@@ -175,9 +165,9 @@ python dental_system.py
 
 ## 📖 Usage
 
-### 📐 Curved MPR Tool (Integrated)
+### 🔍 Curved MPR Tool (Integrated)
 
-Access from the **"📐 Curved MPR"** tab in any system:
+Access from the **"🔍 Curved MPR"** tab in any system:
 
 1. Click **"Open MPR Tool"** button
 2. 📂 Load NIfTI/DICOM/PNG volume
@@ -185,10 +175,6 @@ Access from the **"📐 Curved MPR"** tab in any system:
 4. 🎨 Set **'CPR Start/End'** slice range for the reconstruction depth
 5. 🖱️ Click on the 2D image to draw curve points along your desired path
 6. ✨ Click **"Generate CPR"** to create straightened view
-
-<p align="center">
- <img width="1562" height="965" alt="Screenshot 2025-11-07 233922" src="https://github.com/user-attachments/assets/5344f807-92e0-44fe-b980-300ddff4506f" />
-</p>
 
 ### ✂️ Advanced Clipping (Integrated)
 
@@ -200,19 +186,13 @@ Access from the **"✂️ Clipping"** tab in any system:
 4. 🧭 Select octant regions to hide (Left/Right/Front/Back/Top/Bottom)
 5. ⌨️ Use **"Reset All"** to restore default view
 
-<img width="1574" height="924" alt="Screenshot 2025-11-07 234304" src="https://github.com/user-attachments/assets/0c79b197-9012-4337-9059-c664420fa6e5" />
-
-### 💓 ECG Simulation (Cardiovascular)
+### 💗 ECG Simulation (Cardiovascular)
 
 The cardiovascular module includes:
 - 📈 P-QRS-T wave generation
 - 💗 Atrial and ventricular contraction mapping
-- 🔊 Synchronized heart sounds
+- 📊 Synchronized heart sounds
 - 🗣️ Optional text-to-speech guidance
-
-<p align="center">
-  <img width="1563" height="872" alt="Screenshot 2025-11-07 234803" src="https://github.com/user-attachments/assets/d788f3bb-114d-408b-b1f8-5006af5da12a" />
-</p>
 
 ### ⚡ Neural Signal Animation (Nervous & Musculoskeletal)
 
@@ -252,8 +232,6 @@ The cardiovascular module includes:
 ---
 
 ## 📂 Supported Formats
-
-https://github.com/user-attachments/assets/2d56d4a3-1536-4cd0-8e55-63dae8739217
 
 | Type    | Extensions                           | Description                   |
 | :------ | :----------------------------------- | :---------------------------- |
@@ -300,61 +278,6 @@ Low-Dose CT Images of Healthy Cohort (Healthy-Total-Body-CTs) (Version 2) [Datas
 
 ---
 
-## 📸 Screenshots
-
-### Muscle System
-
-<div align="center">
-
-|Opacity | Clipping |
-|:---:|:---:|
-| <img width="1562" height="923" alt="Screenshot 2025-11-07 232407" src="https://github.com/user-attachments/assets/0f9d2384-aa16-4c21-9163-bf832f3fd647" />| <img width="1577" height="944" alt="Screenshot 2025-11-07 232618" src="https://github.com/user-attachments/assets/bee77c92-1e0e-4426-9576-1568e975f17f" />|
-
-|Opacity  | Colours |
-|:---:|:---:|
-|<img width="1569" height="864" alt="Screenshot 2025-11-07 232422" src="https://github.com/user-attachments/assets/fd0eda4d-8fcf-4df4-be35-59ff8efc96f5" />|<img width="1563" height="902" alt="Screenshot 2025-11-07 232522" src="https://github.com/user-attachments/assets/3617750c-25ab-451a-a4de-ca5ff11d2bf2" />|
-
-|  Curved MPR | Navigation |
-|:---:|:---:|
-| ![mus](https://github.com/user-attachments/assets/cca5591b-3ace-4f67-bc44-27342bb96d51) | <img width="1561" height="887" alt="Screenshot 2025-11-07 232915" src="https://github.com/user-attachments/assets/b34f49a4-44ca-4807-9f0b-27cb4a2a190f" />|
-</div>
-
-### Brain System
-
-<div align="center">
-
-|Opacity | Clipping |
-|:---:|:---:|
-| <img width="1780" height="912" alt="Screenshot 2025-11-07 231121" src="https://github.com/user-attachments/assets/f9b78a19-09ef-4e7a-a245-6380fa28ece3" />| <img width="1768" height="876" alt="Screenshot 2025-11-07 231447" src="https://github.com/user-attachments/assets/cd3d81a6-e0ac-4fa8-b51a-b5f4b6e956e8" />|
-
-|  Curved MPR |Focus Navigation |
-|:---:|:---:|
-| <img width="1734" height="917" alt="Screenshot 2025-11-07 231707" src="https://github.com/user-attachments/assets/64a2b14a-0c60-4089-bebb-5a1c6b6ce061" /> | <img width="1769" height="885" alt="Screenshot 2025-11-07 232053" src="https://github.com/user-attachments/assets/2ab3a840-dad6-458f-9ff5-596923e23834" />|
-
-</div>
-
-### Teeth System
-
-<div align="center">
-
-|Opacity of Upper Jaw | Opacity of Lower Jaw  |
-|:---:|:---:|
-| <img width="1563" height="834" alt="Screenshot 2025-11-07 234200" src="https://github.com/user-attachments/assets/f4388025-7997-4d0d-a2d3-57c020227310" />| <img width="1583" height="791" alt="Screenshot 2025-11-07 234212" src="https://github.com/user-attachments/assets/dbbb7458-bd3f-4b00-9979-5e458ce171ff" />|
-
-</div>
-
-### Heart System
-
-<div align="center">
-  
-|Opacity |Curved MPR |
-|:---:|:---:|
-|<img width="1580" height="900" alt="Screenshot 2025-11-07 234830" src="https://github.com/user-attachments/assets/6bda63b8-5dbd-417b-ae9e-ec76c9115113" />| <img width="1861" height="951" alt="Screenshot 2025-11-06 194052" src="https://github.com/user-attachments/assets/a58a0f19-2965-4fed-ab45-5b1be02b2cf6" />|
-
-</div>
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! 🎉
@@ -379,8 +302,8 @@ This project is provided as-is for educational and research purposes. Not intend
 ## 🙏 Acknowledgments
 
 - 🛠️ Built with VTK, PyVista, and Qt
-- 🏥 Medical imaging support via nibabel and pydicom
-- 💓 ECG simulation based on physiological models
+- 🥼 Medical imaging support via nibabel and pydicom
+- 💗 ECG simulation based on physiological models
 
 ---
 
@@ -390,15 +313,15 @@ This project is provided as-is for educational and research purposes. Not intend
 - Email: maryam23shabaan@gmail.com
 - [GitHub](https://github.com/maryam305)
 - [LinkedIn](https://www.linkedin.com/in/maryam-moustafa-653257378)
-
-**Project Contributor**: Nour Ahmed
-- [GitHub](https://github.com/nourahmedmohamed1)
-- [LinkedIn](https://linkedin.com/in/nn-anwar)
-
+- 
 **Project Contributor**: Aya Sayed
 - Email: aya.sayed14827@gmail.com
 - [GitHub](https://github.com/14930)
 - [LinkedIn](https://www.linkedin.com/in/aya-sayed-bb6a80397?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+  
+**Project Contributor**: Nour Ahmed
+- [GitHub](https://github.com/nourahmedmohamed1)
+- [LinkedIn](https://linkedin.com/in/nn-anwar)
 
 **Project Contributor**: Mahmoud Mazen
 - Email: mmmahmoudmazen208@gmail.com
