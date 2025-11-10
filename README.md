@@ -408,6 +408,6 @@ This project is provided as-is for educational and research purposes. Not intend
 
 <div align="center">
 
-Made with ❤️ for medical visualization and education
+Made with ❤️ for medical visualization and education.
 
 </div>
