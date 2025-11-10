@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/1ce0cc42-e0b6-4a82-bd3a-5f7adc6cdc45
 
 
 #### 🧠 Nervous System
-- 🧬 Brain and spinal cord visualization  
+- 🧬 Brain visualization  
 - 📊 EEG-driven surface coloring  
 - ⚡ Neural signal pathway animation with glow effects
 - ✂️ **Integrated multi-plane clipping tools**  
@@ -91,7 +91,7 @@ https://github.com/user-attachments/assets/dbbb5aca-8ad5-471b-8f91-fb698f0c2fc1
 
 
 #### 🦷 Dental System
-- 😁 Teeth and jaw segmentation  
+- 😁 Teeth segmentation  
 - 🎨 Color preset management  
 - 🔧 Procedural tooth generation  
 - 💫 Neural signal animation  
