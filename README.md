@@ -115,7 +115,7 @@ All systems now include built-in access to:
   - Real-time plane position adjustment
   
 - **📊 Curved MPR**: Interactive curved multiplanar reconstruction
-  - Load NIfTI, DICOM, and PNG stack volumes
+  - Load NIfTI, DICOM
   - Draw custom curved paths on 2D slices
   - Generate straightened CPR images along the path
   - Adjustable slice range selection
@@ -193,7 +193,7 @@ python dental_system.py
 Access from the **"🔍 Curved MPR"** tab in any system:
 
 1. Click **"Open MPR Tool"** button
-2. 📂 Load NIfTI/DICOM/PNG volume
+2. 📂 Load NIfTI/DICOM
 3. 🎯 Use **'Display Slice'** slider to browse through the volume
 4. 🎨 Set **'CPR Start/End'** slice range for the reconstruction depth
 5. 🖱️ Click on the 2D image to draw curve points along your desired path
