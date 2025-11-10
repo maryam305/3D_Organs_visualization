@@ -77,6 +77,10 @@ All systems are launched via a Tkinter-based main interface or standalone entry 
 - ✂️ **Integrated advanced clipping**
 - 🔍 **Integrated curved MPR**
 
+
+https://github.com/user-attachments/assets/dbbb5aca-8ad5-471b-8f91-fb698f0c2fc1
+
+
 #### 🦷 Dental System
 - 😁 Teeth and jaw segmentation  
 - 🎨 Color preset management  
